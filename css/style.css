@@ -1,0 +1,7 @@
+h1{margin-bottom:20px;font-size:32px;font-weight:bold;font-family:Arial,sans-serif;padding-top:20px }
+body{margin:10px;}
+div{padding-left:180px;background-color: #E3E3E3;height:620px;border-top:3px solid #B3B3B4}
+a{margin-bottom:20px;text-decoration:none;color:#158000;font-style:italic;font-weight:bold;}
+img{width:500px;height:auto;position:relative;top:10px;}
+a:hover{color:navy}
+pre{font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline;}
